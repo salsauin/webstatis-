@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Perpustakaan Cikini</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style> h1 {text-align:center;} 
+    img{float:left}
+    table, th, td {border:1px solid rgb(108, 3, 122);border: radius 10px;}
+    #DENAHGEDUNG {
+        background-color: indianred;
+        color: black; padding: 40px; text-align: center;}
+    .section {background-color: cadetblue; color:black; border: 2px solid black; margin: 20px;}
+    </style>
+</head>
+<body>
+  <h1 style="background-color: khaki; font-family:'Times New Roman', Times, serif; color:darkslateblue">
+    PERPUSTAKAAN CIKINI</h1>
+<h2>Profil Perpustakaan</h2>
+<p><img src="images/perpustakaan cikini.jpg" width="400" style="margin-right:10px;"> Kamis, (7/7/2022) yang lalu 
+    Gubernur DKI Jakarta Anies Baswedan meresmikan pembukaan Perpustakaan Jakarta Cikini dan Pusat Dokumentasi 
+    Sastra HB Jassin. Pembukaan tersebut berlangsung di area Perpustakaan Gedung Panjang Kawasan Taman Ismail 
+    Marzuki (TIM), Cikini, Jakarta Pusat. Anies merevitalisasi menjadi Perpustakaan Jakarta Cikini berawal dari 
+    perpustakaan Pusat Dokumentasi Sastra HB Jassin yang sudah berdiri sejak 30 Mei 1977 di kawasan TIM, kala itu 
+    diresmikan oleh Gubernur DKI Jakarta Ali Sadikin.
+    <p align="justify">Setelah dilakukan revitalisasi dan diresmikan, segala fasilitas yang berkaitan dengan layanan 
+        perpustakaan dan sistemnya telah dilakukan pembaharuan agar perpustakaan tersebut menjadi lebih baik dan 
+        menggeliat, yang mana tujuannya sebagai bagian dari pusat literasi di kota Jakarta sebagai salah satu rujukan
+        sumber informasi berupa ilmu pengetahuan bagi masyarakat luas. Perpustakaan ini sebagai Perpustakaan Jakarta 
+        Cikini dan Pusat Dokumentasi Sastra HB Jassin, sudah digabung menjadi satu kesatuan berupa gedung perpustakaan. Tentu fokusnya pada penyediaan berbagai jenis buku, selain fungsi lainnya untuk menggelar kegiatan pameran dan event.
+    <p align="justify">Perpustakaan Jakarta Cikini ini, bila dikunjungi terasa nyaman dan menyenangkan. Di bagian 
+        depan gedung pengunjung disambut dengan pemandangan yang artistik. Material bangunan dari gabungan partikel 
+        kayu, kaca, dan material modern lainnya terasa sangat minimalis, modern dan estetik. Pada bagian ruang utama
+        perpustakaan, nampak berderet buku-buku di tata dengan rapi di rak-rak lemari berbingkai motif kayu.</p>
+  
+    <!--block & inline -->
+  <address>webstite Perpustakaan: <a href="https://perpustakaan.jakarta.go.id/supports/about-us">Perpustakaan Cikini Jakarta</a></adress>
+<br>
+<hr>
+
+<!--List-->
+<h2>Jam Layanan Perpustakaan</h2>
+<d1>
+    <dt><b>Senin - Kamis</dt></b>
+    <dd>-Buka 09.00 - 17.00 WIB</dd>
+    <dd>-Chek in terakhir 16.00</dd>
+<br>
+    <dt><b>Jum'at - Minggu</b></dt>
+    <dd>-Buka Jam 09.00 - 20.00 WIB</dd>
+    <dd>-Chek in terakhir 19.00 WIB</dd>
+</d1>
+<h2>Layanan Perpustakaan</h2>
+<ol>
+    <li>Layanan Sirkulasi</li>
+    <li>Layanan Referensi dan informasi</li>
+    <li>layanan Multimedia</li>
+    <li>Layanan Anak</li>
+    <li>Layanan Digital</li>
+</ol>
+<h2>Koleksi di Perpustakaan</h2>
+<ul>
+    <li>Rekaman Suara</li>
+    <li>Majalah</li>
+    <li>Buku</li>
+</ul>
+<hr>
+
+<!--table-->
+<table>
+    <tr>
+        <th>Fasilitas</th>
+        <th>Penjelasan</th>
+    </tr>
+    <tr>
+        <td>Ruang Baca Terbuka</td>
+        <td>Ruang baca terbuka di perpustakaan adalah area atau fasilitas dalam perpustakaan yang dirancang untuk 
+            memberikan tempat yang nyaman dan terbuka bagi pengunjung untuk membaca, belajar, dan melakukan 
+            penelitian. Ruang baca terbuka ini biasanya dilengkapi dengan meja, kursi, rak buku, akses internet, dan
+            sumber daya lain yang mendukung kegiatan membaca dan penelitian.</td>
+    </tr>
+        <td>Bilik Bermain Untuk Anak</td>
+        <td>Bilik bermain untuk anak di perpustakaan adalah area khusus yang dirancang untuk memberikan anak-anak 
+            tempat yang aman dan menyenangkan untuk bermain sambil mempromosikan pembelajaran awal dan minat membaca.
+             Fasilitas ini biasanya dilengkapi dengan berbagai jenis permainan, mainan edukatif, buku-buku anak-anak, 
+             dan aktivitas kreatif yang dirancang untuk merangsang perkembangan intelektual dan sosial anak-anak.</td>
+</table>
+<!--ID-->
+<h2 id="#DENAHGEDUNG">DENAH GEDUNG</h2>
+
+<!--CLASSES-->
+<div class=""
+</body>
+</html>

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Namsan Tower</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'> 
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body style="backgound-color:purple
+    <h1 style="color: black; background-color:aliceblue;"><center>Belajar HTML5 Hari ke-3 <br>Sangat Menyenangkan</h1>
+    <h2 style="color: brown; background-color: beige;"><center>Perpustakaan & Museum</h2>
+    <img src="images/perpus aesthe" width="400" height="200" style="float: left; margin-right: 10px; border-radius: 5px;"><mark><b>DEFINISI PERPUSTAKAAN</b>
+    </p>
+    <h3>Menurut UU Perpustakaan pada Bab I pasal 1 menyatakan Perpustakaan adalah institusi yang mengumpulkan pengetahuan tercetak dan terekam, mengelolanya dengan cara khusus guna memenuhi kebutuhan intelektualitas para penggunanya melalui beragam cara interaksi pengetahuan. Sedangkan menurut Prof. Sulistyo Basuki, Perpustakaan adalah dalah sebuah ruangan, bagian sebuah Gedung ataupun gedung itu sendiri yang digunakan untuk menyimpan buku dan terbitan lainnya yang biasanya disimpan menurut tata susunan tertentu untuk digunakan pembaca, bukan untuk dijual. Dalam pengertian buku dan terbitan lainnya termasuk di dalamnya semua bahan cetak, buku, majalah, laporan, pamflet, prosiding, manuskrip (naskah), lembaran musik, berbagai karya musik, berbagai karya media audio visual seperti film, slid (slide), kaset, piringan hitam, bentuk mikro seperti mikrofilm, mikrofis, dan mikro buram (micro opaque). Webster menyatakan bahwa perpustakaan merupakan kumpulan buku, manuskrip, dan bahan pustaka lainnya yang digunakan untuk keperluan studi `atau bacaan, kenyamanan, atau kesenangan. Dalam arti tradisional, perpustakaan adalah sebuah koleksi buku dan majalah. Walaupun dapat diartikan sebagai koleksi pribadi perseorangan, namun perpustakaan lebih umum dikenal sebagai sebuah koleksi besar yang dibiayai dan dioperasikan oleh sebuah kota atau institusi, dan dimanfaatkan oleh masyarakat yang rata-rata tidak mampu membeli sekian banyak buku atas biaya sendiri. etapi, dengan koleksi dan penemuan media baru selain buku untuk menyimpan informasi, banyak perpustakaan kini juga merupakan tempat penimpanan dan/atau akses ke map, cetak atau hasil seni lainnya, mikrofilm, mikrofiche, tape audio, CD, LP, tape video dan DVD, dan menyediakan fasilitas umum untuk mengakses gudang data CD-ROM dan internet. Perpustakaan dapat juga diartikan sebagai kumpulan informasi yang bersifat ilmu pengetahuan, hiburan, rekreasi, dan ibadah yang merupakan kebutuhan hakiki manusia. Oleh karena itu perpustakaan modern telah didefinisikan kembali sebagai tempat untuk mengakses informasi dalam format apa pun, apakah informasi itu disimpan dalam gedung perpustakaan tersebut atau tidak. Dalam perpustakaan modern ini selain kumpulan buku tercetak, sebagian buku dan koleksinya ada dalam perpustakaan digital (dalam bentuk data yang bisa diakses lewat jaringan komputer).</h3>
+    <img src="images/museum" width="400" height="200" style="float: right; margin-right: 10px; border-radius: 5px;"><mark><b>DEFINISI MUSEUM</b>
+    </p>
+    <h3>Peraturan Pemerintah No. 66 Tahun 2015 tentang Museum, Museum adalah lembaga yang berfungsi melindungi, mengembangkan, memanfaatkan koleksi, dan mengomunikasikannya kepada masyarakat. Definisi museum berdasarkan konferensi umum ICOM (International Council Of Museums) yang ke-22 di Wina, Austria, pada 24 Agustus 2007 menyebutkan bahwa Museum adalah lembaga yang bersifat tetap, tidak mencari keuntungan, melayani masyarakat dan perkembangannya, terbuka untuk umum, yang mengumpulkan, merawat, meneliti, mengomunikasikan, dan memamerkan warisan budaya dan lingkungannya yang bersifat kebendaan dan takbenda untuk tujuan pengkajian, pendidikan, dan kesenangan. Secara etimologis kata museum berasal dari bahasa latin yaitu "museum" ("musea"). Aslinya dari bahasa Yunani “mouseion” yang merupakan kuil yang dipersembahkan untuk Muses (9 dewi seni dalam mitologi Yunani), dan merupakan bangunan tempat pendidikan dan kesenian, khususnya institut untuk filosofi dan penelitian pada perpustakaan di Alexandria yang didirikan oleh Ptolomy I Soter 280 SM. Museum mengelola bukti material hasil budaya dan/atau material alam dan lingkungannya yang mempunyai nilai penting bagi sejarah, ilmu pengetahuan, pendidikan, agama, kebudayaan, teknologi, dan/atau pariwisata untuk dikomunikasikan dan dipamerkan kepada masyarakat umum melalui pameran permanen, temporer, dan keliling. Kebanyakan museum menawarkan program dan kegiatan yang menjangkau seluruh pengunjung, termasuk orang dewasa, anak-anak, seluruh keluarga, dan tingkat profesi lainnya. Program untuk umum terdiri dari perkuliahan atau pelatihan dengan staf pengajar, orang-orang yang ahli, dengan film, musik atau pertunjukkan tarian, dan demonstrasi dengan teknologi.</h3>
+    <h3> <mark><b> 10 Rekomendasi Perpustakaan dan Museum</b></mark></h3>
+    <ol type="1">
+        <li>Trinity College Library (1592) Irlandia</1i>
+        <li>Codrington Library University of Oxford (1751) Inggris</1i>
+        <li>Perpustakaan Taman Ismail Marzuki (1968) Indonesia</1i>
+        <li>Institute of Chicago (1990) Amerika Serikat</li>
+        <li>Acropolis Museum (1865) Yunani</li>
+        <li>Prado National Museum (1819) Spanyol</li>
+        <li>State Hermitage Museum and Winter Palace (1852) Rusia</li>
+        <li>Museum Nasional Indonesia (1862) Indonesia</li>
+        <li>Museum Bank Indonesia (2009) Indonesia</li>
+        <li>Louvre Museum (1793) Prancis</li>
+    <ol>
+    <h2>Alamat Rekomendasi Perpustakaan dan Museum</h2>
+    <table border="1" style="border: dashed; border-color: black;">
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Perpustakaan/Museum</th>
+                <th>Alamat</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Trinity College Library (1592) Irlandia</td>
+                <td>The Library of Trinity College Dublin, Dublin 2, Ireland</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Codrington Library University of Oxford (1751) Inggris</td>
+                <td>All Souls College, Oxford OX1 4AL</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Perpustakaan Taman Ismail Marzuki (1968) Indonesia</td>
+                <td>Jl. Cikini Raya No.73, Cikini, Kecamatan Menteng, Kota Jakarta Pusat.</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Institute of Chicago (1990) Amerika Serikat</td>
+                <td>111 S Michigan Ave, Chicago, IL 60603, Amerika Serikat</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Acropolis Museum (1865) Yunani</td>
+                <td>Dionysiou Areopagitou 15, Athina 117 42, Yunani</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Prado National Museum (1819) Spanyol</td>
+                <td>C. de Ruiz de Alarcon, 23, 28014 Madrid, Spanyol</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>State Hermitage Museum and Winter Palace (1852) Rusia</td>
+                <td>The State Hermitage Museum Russia, 190000, St. Petersburg, Dvortsovaya Naberezhnaya 34</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Museum Nasional Indonesia (1862) Indonesia</td>
+                <td>Jl. Medan Merdeka Barat No.12, Gambir, Jakarta Pusat</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Museum Bank Indonesia (2009) Indonesia</td>
+                <td>Jl. Pintu Besar Utara No.3, RT/RW.4/6, Pinangsia, Taman Sari, Jakarta Barat</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Louvre Museum (1793) Prancis</td>
+                <td>75001 Paris, Prancis</td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <p>Sumber Rujukan Belajar HTML5: <a href="https://www.w3schools.com/">W3Schools</a></p>
+    <p>Yang Mengerjakan Tugas Ini:</p>
+    <table>
+        <tr>
+            <td>Nama Lengkap</td>
+            <td>:</td>
+            <td><b>Anastasya Meliyanti</b></td>
+        </tr>
+        <tr>
+            <td>NIM</td>
+            <td>:</td>
+            <td>11210251000018</td>
+        </tr>
+        <img src="images/tasya.jpg" width="250" height="170">
+
+    </table>
+
+

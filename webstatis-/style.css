@@ -1,0 +1,43 @@
+/*h1 {
+    background-color: blanchedalmond;
+    font-family:"Arial";
+    text-align:center;
+    font-size:50px;
+    color:black;
+} */
+
+   /* This is the new h1 style */
+h1 {
+   color:deeppink;
+   background-color: lightgoldenrodyellow;
+   text-decoration: underline; 
+}
+
+p {
+    font-size:15px;
+    /*color: purple;*/
+    color: black;
+    text-shadow:blueviolet 3px 3px 5px;
+}
+body {
+    background-color:lightskyblue;
+}
+
+ /* this is a multi line comment */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

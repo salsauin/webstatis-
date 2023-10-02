@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Namsan Tower, Sejarah dan Objek Wisata yang Menarik</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='icon' type='images/x-icon' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body style="background-color: hotpink;">
+    <h1 style="color: ivory; background-color: black;"><center>Objek Wisata Menarik <br>Korea Selatan</h1>
+    <h2 style="color:rgb(5, 4, 2);"><center>Namsan Seoul Tower</h2>
+    <img src="images/namsan tower.jpg" width="300" style="float: left; Margin-right: 10px; border-radius: 5px;"><mark><b>APA ITU NAMSAN 
+        TOWER?</b></mark>
+    <p align="justify" style="font-size:15px">N Seoul Tower yang juga dikenal sebagai Menara Namsan, merupakan sebuah ikon kota Seoul yang menyuguhkan pemandangan panorama 
+        kota. Menara ini merupakan sebuah observatorium dan menara komunikasi di puncak Gunung Namsan yang merupakan pusat geografis kota 
+        ini. N Tower adalah destinasi wisata yang sangat populer dan merupakan salah satu objek wisata yang wajib dikunjungi oleh setiap 
+        wisatawan. Menara ini juga merupakan tempat kencan populer di kalangan penduduk lokal.</p>
+    <img src="images/N-Seoul-Tower-Namsan-Cable-Car.jpg" width="400" height="200" style="float:right; margin-right: 10px; border-radius:5px;"><mark><b>SEJARAH NAMSAN SEOUL TOWER</b></mark>
+    <p></p>
+    <p align="justify" style="font-size:15px">Namsan Tower merupakan menara gelombang radio pertama di Korea        Selatan yang dibangun pada tahun 1971.Pembangunan Namsan Tower dimulai pada tahun 1969 dan mulai rampung pada tahun 1971. Menara ini menjulang sekitar 1.574 kaki di atas permukaan laut. Biaya konstruksi keseluruhan adalah 2,5 juta USD, dirancang oleh seorang arsitek yang berasal dari Jang Jong Ryul. Awalnya diberi nama Menara Seoul kemudian diubah namanya menjadi Namsan Tower Seoul pada tahun 2005 sedangkan N berarti (New) baru, Namsan, dan (Nature) alam. Namsan Tower merupakan sebuah menara komunikasi dan menjadi gedung terbesar kedua di Seoul dengan ketinggian 236 meter dan dibuka untuk umum pada tahun 1980. Namsan Tower di bangun tepat di atas sebuah Gunung. Dengan nama yang sama dengan menara bernama Gunung Namsan adalah landmark paling terkenal di Seoul. Puncak gunung ini telah menjadi latar belakang pemandangan yang indah kota Seoul yang menarik perhatian sejak zaman kuno. Gunung itu kini dihiasi oleh N Tower yang ikonik. Hal ini paling menarik adalah pada dinding batu yang dibangun pada era Joseon.</h4></p>
+    <h4> <mark><b>CARA MENUJU NAMSAN SEOUL TOWER</b></mark></h4>
+        <p align="justify">Berbagai cara untuk menuju ke Namsan Seoul Tower dan pengunjung bisa memilih sendiri cara bepergian sesuai keinginan. Pengunjung bisa berjalan ke Gunung Namsan dan mencapai menara, namun jalurnya cukup curam dan sulit. Moda transportasi yang disarankan untuk wisatawan adalah Kereta Gantung Namsan, bus shuttle, atau bus wisata kota.</p>
+    </h4>
+    <h4> <mark><b>6 Rekomendasi Objek Wisata di Namsan Tower</b></mark></h4>
+    <ol type="1">
+        <li>Observatorium N Seoul Tower</li>
+        <li>Hanbok Culture Experience Center</li>
+        <li>Gembok Cinta</li>
+        <li>Tempat Makan</li>
+        <li>Taman Namsan</li>
+        <li>Namsangol Hanok Village</li>
+    <ol>
+    <h2><center>Rekomendasi Objek Wisata di Namsan Tower</h2>
+    <table border="1" style="border: dashed; border-color: black;">
+        <thread>
+            <tr>
+                <th>No.</th>
+                <th>Objek Wisata</th>
+                <th>Rincian Objek</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Observatorium N Seoul Tower</td>
+                <td>Observasi utama berada di lantai 3 dengan dinding dan lantai yang terbuat dari kaca di sekitarnya sehingga Pengunjung dapat 
+                    melihat pemandangan 360 derajat. Ada berbagai tempat menarik yang dapat Anda lihat dari jendela serta tersedia tempat 
+                    duduk yang nyaman di sekitar. Satu lantai dari sini, di lantai 4, Pengunjung akan menemukan observatorium digital. 
+                    Lantai ini teleskop bertenaga tinggi dan setiap panel jendelanya memungkinkankan Anda melihat kota di dunia dari arah pandang 
+                    Pengunjung. </td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Hanbok Culture Experience Center</td>
+                <td>Hanbok Culture Experience Center berada di lobi plaza Namsan Seoul Tower. Pusat budaya ini memberikan kesempatan bagi para 
+                    pengunjung untuk merasakan dua pengalaman budaya dari Dinasti Joseon. Di Hanbok Experience, Pengunjung bisa mencoba 
+                    pakaian dan aksesori tradisional dan berfoto-foto di zona foto. Di Traditional Wedding Experience, pengunjung dapat memakai 
+                    pakaian pengantin dan berfoto dengan bantuan seorang fotografer profesional. Tempat ini buka mulai pukul 11:00 hingga 
+                    22:00. Tiket masuk dikenakan biaya sebesar 4.000 won bagi pengunjung usia 14 tahun ke atas dan 1.000 untuk anak di 
+                    bawah 13 tahun. Anak di bawah 7 tahun bisa masuk dengan gratis. Perlu diketahui bahwa tarif tiket masuk tidak termasuk
+                    penyewaan Hanbok. Ada biaya tambahan untuk Hanbok Experience dan Traditional Wedding Experience.</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Gembok Cinta</td>
+                <td>Selain mengunjungi dek observasi, salah satu aktivitas terbaik bagi dua sejoli di N Seoul Tower adalah memasang gembok
+                    pada pagar di sekitar plaza. Para pasangan menuliskan nama, inisial, bahkan pesan pendek pada gembok mereka sebelum 
+                    memasangnya di pagar sebagai sebuah simbol cinta yang abadi. Aktivitas ini biasa disebut “gembok cinta” dan sangat 
+                    digandrungi oleh penduduk lokal dan wisatawan. Jika Pengunjung tidak membawa gembok Anda sendiri, Pengunjung bisa 
+                    membelinya dari toko cendera mata.</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Tempat Makan</td>
+                <td>Ada banyak tempat makan yang tersedia di N Seoul Tower jika Anda lapar saat berkunjung. Sweet Bar merupakan tempat 
+                    yang menarik untuk membeli minum dan kudapan manis atau asin seperti popcorn. Ada juga berbagai restoran bagi Anda 
+                    yang ingin duduk santai sambil makan. Pilihlah satu dari berbagai mi khas Korea di Cheiljemyunso, burger khas Amerika 
+                    di N Burger, masakan khas Italia di THE PLACE Dining, restoran mewah khas Prancis di n.Grill, dan restoran prasmanan 
+                    khas Korea di HANCOOK. Untuk menikmati pemandangan malam kota Seoul yang memesona, jangan lewatkan untuk mengunjungi 
+                    premium sky lounge N TERRACE selagi meneguk koktail Anda.</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Taman Namsan</td>
+                <td>Taman Namsan adalah sebuah taman umum yang terhampar luas di sepanjang lereng Gunung Namsan, di sekitar N Seoul Tower.
+                     pengunjung dapat menikmati pemandangan kota Seoul dari setiap sudut taman ini serta ada juga lokasi untuk berpiknik 
+                     dan berbagai jalur pendakian. Setiap harinya taman ini dikunjungi oleh lebih dari 20.000 orang yang ingin merasakan 
+                     suasana alam di jantung kota menawan ini. Tempat ini buka setiap hari dan memiliki bayak fasilitas, termasuk kebun 
+                     raya, perpustakaan, telaga, toko makanan ringan, dan berbagai fasilitas olahraga. Taman Namsan merupakan tempat 
+                     menyenangkan untuk dijelajahi sebelum atau setelah Anda mengunjungi menara.</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Namsangol Hanok Village</td>
+                <td>Namsangol Hanok Village berada di bagian utara Gunung Namsan, tidak jauh dari N Seoul Tower. Tempat ini merupakan 
+                    sebuah destinasi sempurna bagi Anda yang mengunjungi menara, khususnya jika Anda ingin merasakan pengalaman modern 
+                    berteknologi tinggi serta tradisional di kota Seoul dalam satu hari. Namsangol Hanok Village memiliki lima rumah 
+                    tradisional yang telah direnovasi menyerupai tampilan aslinya pada Dinasti Joseon. Kampung ini juga memiliki kebun 
+                    tradisional Korea, plaza, dan panggung pertunjukan seni. Tempat ini cocok untuk berjalan-jalan dan melakukan kegiatan 
+                    kebudayaan, seperti memakai pakaian tradisional hanbok, mengikuti upacara teh, menyaksikan taekwondo, dan menghadiri 
+                    upacara pernikahan tradisional. Tiket masuk ke Namsangol Hanok Village tidak dikenakan biaya dan buka setiap hari, 
+                    kecuali Senin. Jam operasionalnya dimulai pukul 09:00 hingga 21:00 pada bulan April hingga Oktober dan pukul 09:00 
+                    hingga 20:00 pada bulan November hingga Maret. Kebun tradisionalnya buka 24 jam setiap hari.</td>
+            </tr>
+        </body>
+    </table>
+    <br>
+    <p>Sumber Rujukan Belajar HTML5: <a href="https://www.w3schools.com/">W3Schools</a></p>
+    <p>Yang Mengerjakan Tugas Ini:</p>
+    <table>
+        <tr>
+            <td>Nama Lengkap</td>
+            <td>:</td>
+            <td><b>Salsabila Hasna Zahra</b></td>
+        </tr>
+        <tr>
+            <td>NIM</td>
+            <td>:</td>
+            <td>11210251000016</td>
+        </tr>
+        <img src="images/fotoku lagi.jpeg"width="175">
+
+    </table>

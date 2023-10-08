@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Perpustakaan Institut Teknologi Bandung (ITB)</title>
+    <link rel="icon" type="image/x-icon" href="images/Logo_Institut_Teknologi_Bandung.png">
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style> h1 {text-align:center;} 
+            img {float:left}
+    table, th, td {
+        border:3px solid rgb(94, 39, 94);
+        border-radius: 10px;
+    }
+    .section {background-color: rgb(214, 240, 241); 
+        color:black; 
+        border: 2px solid black; 
+        margin: 20px; 
+        padding: 20px;
+    }
+    #FASILITASRUANG {
+        background-color: rgb(6, 168, 233);
+        color: black; 
+        padding: 40px; 
+        text-align: center;}
+    .main {
+        width: 100%;
+        height: 100vh;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(images/images");
+        background-size: cover;
+        background-position: center;
+    }
+    </style>
+
+</head>
+<body style="background-color:skyblue;"></body>
+
+    <h1 style="background-color: rgb(244, 238, 184); font-family:'Times New Roman', Times, serif; color:darkslateblue";>PERPUSTAKAAN INSTITUT TEKNOLOGI BANDUNG (ITB)</h1>
+<h2 style="color:rgb(8,8,8);">Profil Institut Teknologi Bandung (ITB)</h2>
+<img src="images/gedung perpus itb.jpg" width="400" style="margin-right:10px; border: radius 5px;"><mark style="font: size 20px"><alt=""></mark><h2> <b>Tentang Perpustakaan Institut Teknologi Bandung (ITB)</b></h2> 
+<p align="justify" style="font:size 20px">Perpustakaan ITB berdiri bersamaan dengan lahirnya Technische Hoogeschool (TH) di Bandung pada tahun 1920, sebagai cikal bakal ITB pada masa pendudukan Belanda. Perpustakaan ITB yang saat itu bernama Perpustakaan TH dikenal sampai ke luar negeri karena memiliki koleksi yang sangat bermutu dengan cakupan yang luas, meliputi hampir semua bidang ilmu, mulai dari ilmu rekayasa, ilmu pengetahuan alam, sosiologi, filosofi, sastra, musik dll. Koleksi buku yang dimiliki Perpustakaan TH kebanyakan berbahasa Belanda, Perancis, Jerman dan Inggris. Saat itu Perpustakaan TH memiliki koleksi karya tokoh-tokoh terkenal dalam bidang masing-masing seperti seri karya Bertrand Russell, karya-karya ahli Fisika H.A Lorentz, ahli matematika dan astronomi K.F Gauss, dan tokoh-tokoh lainnya seperti Charles D.Darwin, William Shakespeare dan Goethe. Bahkan laporan Alfred C.Kinsey yang pada masa itu sangat menghebohkan mengenai perilaku seks masyarakat Amerika tahun 1940-an yang terbit dengan judul The Kinsey Report pun sudah dimiliki Perpustakaan TH.</p>
+<p align="justify">Pertengahan tahun 1987 sebuah gedung perpustakaan yang cukup megah berdiri di Kampus ITB dengan luas 9.000m2 , terletak di bagian utara kampus. Bangunan yang terdiri 5 lantai, yaitu basement, lantai 1, lantai 2, lantai 3, dan lantai 4. Gedung ini merupakan tahap pertama dari rencana bangunan yang jumlah totalnya mencapai luas 16.000m2. Tahap kedua pembangunan gedung perpustakaan baru akan dilaksanakan setelah gedung tahap pertama terisi penuh, dan hal ini diperkirakan baru akan tercapai setelah gedung tahap pertama dioperasikan selama 25 tahun. Pada tahun 2019, perpustakaan ITB telah diresmikan dengan nama Gedung Perpustakaan T.P Rachmat II.
+<p align="justify">Prestasi yang dicapai Perpustakaan ITB pada tahun 1982 terpilih sebagai Perpustakaan Perguruan Tinggi Terbaik se-Indonesia hasil penilaian Departemen Pendidikan dan Kebudayaan. Atas prestasi tersebut, Perpustakaan ITB dengan nama resminya kini Unit Pelaksana Teknis/UPT Perpustakaan ITB ditunjuk sebagai Pusat Layanan Disiplin Ilmu (PUSYANDI) untuk bidang rekayasa serta menjadi Perpustakaan Model bagi perpustakaan-perpustakaan perguruan tinggi lainnya di Indonesia, termasuk bertanggung jawab dalam upaya mendidik tenaga-tenaga ahli perpustakaan untuk perguruan tinggi.</p>
+
+<address>Website Perpustakaan Institut Teknologi Bandung (ITB): <a href="https://lib.itb.ac.id/v">klik disini</a></address>
+<hr>
+    <!--List-->
+
+<h2>Visi, Misi dan Fungsi Perpustakaan Institut Teknologi Bandung (ITB)</h2>
+<dl>
+    <dt><b>Visi</b></dt>
+        <dd>Menyediakan layanan, menghimpun pustaka dan akses informasi bagi Sivitas Akademika ITB untuk mendukung pelaksanaan tridharma perguruan tinggi, dan tercapainya masyarakat Indonesia berbasis pengetahuan.
+    </dd>
+    <br>
+    <dt><b>Misi</b></dt>
+        <dd>1. Menunjang keberhasilan Misi ITB dengan memberikan layanan informasi secara efektif dan efisien.</dd>
+        <dd>2. Menjadi mitra profesional bagi para peneliti dan pendidik.</dd>
+        <dd>3. Mengembangkan, mengorganisasi, dan mendayagunakan koleksi ilmu pengetahuan, sains dan teknologi serta humaniora sebagai bahan rujukan bagi sivitas akademika dan masyarakat sehingga tercipta masyarakat produsen informasi.</dd>
+        <dd>4. Menyebarluaskan informasi, khususnya intellectual capital ITB, agar dapat dimanfaatkan oleh sivitas akademika ITB, dan juga masyarakat di seluruh dunia dengan memanfaatkan teknologi informasi yang ada dan yang akan ada.</dd>
+        <dd>5. Menjalin kerja sama dengan berbagai institusi di dalam dan luar negeri untuk memperoleh informasi yang dibutuhkan oleh sivitas akademika dan masyarakat.</dd>
+    <br>
+        <dt><b>Fungsi Perpustakaan ITB</b></dt>
+        <dd>1. Menunjang perkembangan akademik</dd>
+        <dd>2. Menunjang sistema jaringan informasi pada perguruan tinggi ditingkat nasional untuk bidang IPTEK, Seni dan Desain</dd>
+        <dd>3. Membantu menunjang proses belajar mengajar</dd>
+        <dd>4. Tempat pelestarian ilmu pengetahuan</dd>
+</dl>
+
+<h2>Jam Layanan Perpustakaan</h2>
+<dl>
+    <dt><b>Senin - Jum'at</dt></b>
+    <dd>Buka 08.00 – 19.30 WIB</dd>
+<br>
+    <dt><b>Waktu Istirahat</b></dt>
+    <dd>Senin - kamis </dd>
+    <dd>12.00 – 12.30 WIB</dd>
+    <br>
+    <dd> Senin - Jum'at</dd>
+    <dd> 18.00 – 18.30 WIB</dd>
+    <br>
+    <dd>Jum'at (Tutup Layanan)</dd>
+    <dd>11.00 - 13.00 WIB</dd>
+</dl>
+<h2>Layanan Perpustakaan</h2>
+<p align="justify">Perpustakaan Pusat ITB menyediakan layanan informasi bagi civitas akademika ITB dan masyarakat. Layanan ini termasuk peminjaman buku, rekaman audio visual, pemesanan salinan buku dari perpustakaan lain di Indonesia dan di luar negeri, juga layanan internet. Anggota Perpustakaan Pusat ITB antara lain dosen, mahasiswa, pegawai, dan alumni. Berikut layanan yang ada di Perpustakaan ITB, antara lain:</p>
+<ol>
+    <li>Layanan Sirkulasi</li>
+    <li>Layanan Peminjaman Mandiri</li>
+    <li>layanan Konsultasi</li>
+    <li>Layanan Penelusuran Informasi</li>
+    <li>Layanan Audiovisual</li>
+    <li>Layanan FotoCopy</li>
+</ol>
+<h2>Koleksi di Perpustakaan</h2>
+<p align="justify">Perpustakaan UPT ITB telah menyediakan bahan bacaan wajib dan bahan baca pengaya. Jenis koleksi yang telah disediakan di perpustakaan ini beragam untuk memenuhi kebutuhan pemakainya terutama civitas akademika ITB. Berikut koleksi yang telah di sediakan dalam perpustakaan UPT ITB:</p>
+<ul>
+    <li>Koleksi Buku Baru</li>
+    <li>Koleksi Kerjasama</li>
+    <li>Koleksi Taha Persiapan Bersama (TPB)</li>
+    <li>Koleksi Mingguan</li>
+    <li>Koleksi Jurnal Cetak</li>
+    <li>Koleksi Standar Nasional Indonesia (SNI) corner</li>
+    <li>Koleksi Rujukan/Koleksi Referensi</li>
+    <li>Koleksi Umum</li>
+    <li>Koleksi Khusus</li>
+    <li>Koleksi audiovisual</li>
+</ul>
+<hr>
+<h2>Koleksi Online di Perpustakaan ITB</h2>
+<p align="justify">Di lantai 4 terdapat sejumlah komputer yang dapat dimanfaatkan oleh mahasiswa ITB untuk menelusur koleksi elektronik atau koleksi digital yang dimiliki oleh perpustakaan ITB. Terdapat dua jenis koleksi elektronik, yaitu repository ITB atau koleksi elektronik yang dihasilkan mahasiswa ITB ketika menuntaskan tugas akhir, tesis, dan disertasi. Koleksi tersebut dapat diakses melalui laman <a href="//digilib.itb.ac.id."></a> Selain itu, koleksi elektronik yang kedua yaitu koleksi elektronik yang dilanggan oleh ITB, berupa jurnal dan buku elektronik yang dapat diakses melalui pangkalan data atau database.Seluruh jurnal elektronik dan buku elektronik tersebut dapat diakses oleh civitas akademika ITB melalu jaringan internet ITB. Berikut adalah E-Book dan E-journal yang tersedia di Perpustakaan ITB:</p>
+<!--table-->
+<table>
+    <tr>
+        <th>Layanan <i>e-resources</i></th>
+        <th>Daftar <i>E-Book dan E-Journal</i> yang dilanggan</th>
+    </tr>
+    <tr>
+        <td><i>E-Book</i></td>
+        <td>McGrawHill Access Engineering, McGrawHill Access Pharmacy, Springerlink, Wiley Online Library, Taylor & Francis </td>
+    <tr>
+        <td><i>E-Journal</i></td>
+        <td>Association for Computing Machinery (ACM) Digital Library, American Chemical Society (ACS), American Physical Society (APS), American Society of Civil Engineering (ASCE), IEEE Electronic Library (IEL), Nature, OnePetro, ProQuest ABI/Inform Collection, ScienceDirect Freedom Collection, Springerlink, Taylor and Francis (Arts & Humanities), emerald insight</td>
+    </tr>
+</table>
+<!--ID-->
+<h2 id="FASILITASRUANG">#FASILITAS RUANG</h2>
+
+<!--CLASSES-->
+    <div class="section">
+        <h2>Fasilitas Ruang</h2>
+        <p style="font-size:large;">Dalam upaya menciptakan kenyamanan dan mendukung fungsi Perpustakaan sebagai tempat berkegiatan para pengunjungnya, UPT Perpustakaan menyediakan fasilitas yang memadai dan memberikan kenyamanan yang baik. Fasilitas ruangan yang telah disediakan yaitu seperti; Circulation desk,Ruang baca (zona diskusi), Ruang America Corner, Ruang audiovisual, dan lain sebagainya. Berikut adalah penjelasan dari pada fasilitas ruang yang berada di Perpustakaan ITB, sebagai berikut:</p></div>
+    <div class="section">
+        <h2>1. Circulation Desk</h2>
+        <p style="font-size: large;">Circulation desk (loket sirkulasi) adalah salah satu bagian penting dalam sebuah perpustakaan. Pada area ini adalah tempat di mana staf perpustakaan berinteraksi langsung dengan anggota perpustakaan untuk melakukan berbagai layanan berkaitan dengan peminjaman dan pengembalian koleksi bahan pustaka. Adapun kegunaan utama dari circulation desk yaitu seperti; Peminjaman Buku, Pengembalian Buku, Perpanjangan Peminjaman, Pendaftaran Anggota, Penanganan Denda, dan lain-lain.</p></div>
+    <div class="section">
+        <h2>2. Ruang baca (Zona Diskusi)</h2>
+        <p style="font: large;">Ruang baca atau zona diskusi adalah ruang yang di mana mahasiswa ataupun pengunjung dapat membaca, belajar, atau berdiskusi dalam kelompok. Ruang ini sudah dilengkapi dengan meja, kursi, akses Wi-Fi, dan fasilitas lainnya yang mendukung kegiatan belajar dan diskusi.</p></div>
+    <div class="section">
+        <h2>3. Ruang America Corner </h2>
+        <p style="font:large;">Ruang American Corner adalah program yang didukung oleh Kedutaan Besar Amerika Serikat dan Amerika Serikat Information Service (USIS) yang bertujuan untuk mempromosikan pemahaman tentang budaya Amerika Serikat, nilai-nilai demokrasi, dan pertukaran budaya antara Amerika Serikat dan negara-negara lain.Pada Ruangan ini memiliki fasilitas koleksi buku dan multimedia, seperti: board games, marker kit (3-D Doodler, science kits, kano kits, Arduino, little bits, dll.), printers dan scanner 3-D, dll.</p></div>
+    <div class="section">
+        <h2>4. Ruang Audiovisual</h2>
+        <p style="font:large;">Ruang audiovisual di perpustakaan adalah ruang khusus yang dibuat untuk memberikan akses kepada pemustaka untuk menggunakan sumber daya audio dan visual, seperti rekaman audio, video, dan perangkat multimedia lainnya. Pada ruang ini, pemustaka juga dapat menggunakan komputer untuk digunakan dalam menelusuri <i>e-journal</i> maupun <i>e-book</i> yang telah tersedia di Perpustakaan ITB.</p> </div>
+        <hr>
+        <h2> LIBRARY TOUR</h2>
+        <p style="font: large";>Kunjungi video virtual room tour Perpustakaan Institut Teknologi Bandung (ITB)</p>
+        <iframe width="560" height="315" src="https://youtube.com/embed/N10zOYx7Ajk?si=dXzU6lEIMHBgxz-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+        <hr>
+
+<h2>KRITIK dan SARAN</h2>
+<form>
+    <label for="fname" style="font-size: large;">Nama:</label><br>
+    <input type="text" id="fname" name="fname"><br>
+    <label for="nim" style="font-size: large;">NIM:</label><br>
+    <input type="numeric" id="nomor pegawai" name="nomor pegawai"><br>
+    <label for="kritiksaran" style="font-size: large;">Kritik/Saran</label><br>
+    <input type="text" id="kritiksaran" name="kritiksaran"><br>
+    <input type="submit" value="Submit">
+  </form> 
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+</html>
